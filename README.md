@@ -51,6 +51,14 @@ To get a local copy of the project up and running, follow these steps:
 5. **Run the Application:**
     ```bash
      dotnet run
+    
+## Usage 📝
+
+* **Register/Login 🔑**: Access the registration and login pages to create an account or sign in.
+* **Browse Clothing 🛍️**: Navigate through the catalog to view available items.
+* **Rent Items 🛒**: Select items to rent and proceed through the rental process.
+* **Admin Panel 👨‍💼**: Log in as an administrator to manage inventory and user accounts.
+
 
 ## 📝 License
 
@@ -64,9 +72,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Happy Task Management! 🚀
 
     
-## Usage 📝
-
-* **Register/Login 🔑**: Access the registration and login pages to create an account or sign in.
-* **Browse Clothing 🛍️**: Navigate through the catalog to view available items.
-* **Rent Items 🛒**: Select items to rent and proceed through the rental process.
-* **Admin Panel 👨‍💼**: Log in as an administrator to manage inventory and user accounts.
