@@ -51,6 +51,18 @@ To get a local copy of the project up and running, follow these steps:
 5. **Run the Application:**
     ```bash
      dotnet run
+
+## 📝 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE) for details.
+
+## 🌟 Connect With Us
+
+- [LinkedIn](https://www.linkedin.com/in/jagrati-mehta-4b87b7213/)
+- [GitHub](https://github.com/jagratimehta410)
+
+Happy Task Management! 🚀
+
     
 ## Usage 📝
 
